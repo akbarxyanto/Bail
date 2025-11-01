@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ @rexxhayanasi/elaina-bail</h1>
+  <h1>✨ Kriszz Hayanasi.</h1>
   <p><em>Custom WhatsApp library built upon Baileys — enhanced, modernized, and elegant ✨</em></p>
 
   <img src="https://files.catbox.moe/dmz2fn.jpg" width="300" alt="Elaina Bail Banner" />
@@ -232,13 +232,13 @@ Terima kasih kepada pihak-pihak yang telah memberikan dukungan, inspirasi, dan k
 - **[Nstar-Y / Nstar-bail](https://github.com/Nstar-Y)**  
   As an initial foundation and reference in the development of this system.
 
-- **[RexxHayanasi](https://github.com/RexxHayanasi)** (Me)  
+- **[KriszzHayanasi](https://github.com/KriszzTzy)** (Me)  
   The main developer of this project.
 
 </details>
 
 > [!CAUTION]
-> Built on top of the WhiskeySockets/Baileys project. All original core logic credits go to their team. elaina-bail extends it with thoughtful UX and DX improvements.
+> Built on top of the WhiskeySockets/Baileys project. All original core logic credits go to their team. Kriszz Bails extends it with thoughtful UX and DX improvements.
 
 ---
 
@@ -249,17 +249,24 @@ Thanks to the following awesome contributors who help improve this project 💖
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/KriszzTzy">
+        <img src="https://avatars.githubusercontent.com/u/150516773?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
+        <br />
+        <sub><b>KriszzHayanasi</b></sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/RexxHayanasi">
         <img src="https://avatars.githubusercontent.com/u/150516773?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
         <br />
-        <sub><b>RexxHayanasi [ developer project ]</b></sub>
+        <sub><b>RexxHayanasi</b></sub>
       </a>
     </td>
 <td align="center">
       <a href="https://github.com/kiuur">
         <img src="https://avatars.githubusercontent.com/u/182334162?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
         <br />
-        <sub><b>Kyuu [ kiuur ]</b></sub>
+        <sub><b>Kyuurzy</b></sub>
       </a>
     </td>
     <td align="center">
