@@ -217,7 +217,7 @@ Please open an issue at  [ *UNCOMING WEBSITE* ]
 Or contact the maintainer directly via WhatsApp:
 
 <p align="center">
-  <a href="https://wa.me/6285282530851" target="_blank">
+  <a href="https://wa.me/972568184368?text=hai, kay?" target="_blank">
     <img alt="WhatsApp" src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
