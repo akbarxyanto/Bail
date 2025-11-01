@@ -2,18 +2,18 @@
   <h1>✨ Kriszz Hayanasi.</h1>
   <p><em>Custom WhatsApp library built upon Baileys — enhanced, modernized, and elegant ✨</em></p>
 
-  <img src="https://files.catbox.moe/dmz2fn.jpg" width="300" alt="Elaina Bail Banner" />
+  <img src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1761960111729.jpeg" width="300" alt="Banner" />
 
 
   
 ---
 
   <p>
-    <a href="https://www.npmjs.com/package/@rexxhayanasi/elaina-bail">
-      <img src="https://img.shields.io/npm/v/@rexxhayanasi/elaina-bail?color=blueviolet&label=version&logo=npm" alt="npm version" />
+    <a href="https://www.npmjs.com/package/@kriszz-hayanasi/baileys">
+      <img src="https://img.shields.io/npm/v/@kriszz-hayanasi/baileys?color=blueviolet&label=version&logo=npm" alt="npm version" />
     </a>
-    <a href="https://www.npmjs.com/package/@rexxhayanasi/elaina-bail">
-      <img src="https://img.shields.io/npm/dt/@rexxhayanasi/elaina-bail?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
+    <a href="https://www.npmjs.com/package/@kriszz-hayanasi/baileys">
+      <img src="https://img.shields.io/npm/dt/@kriszz-hayanasi/baileys?color=blueviolet&label=downloads&logo=npm" alt="npm downloads" />
     </a>
     <a href="https://whatsapp.com/channel/0029VapYyKEGufIpsd3Rja2C">
       <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Channel" />
@@ -30,7 +30,7 @@
 
 ## 📌 Overview
 
-> `elaina-bail` is a refined version of the Baileys library with cleaner API usage, exclusive features like album messaging, newsletter controls, and full-size profile uploads — tailored for modern WhatsApp automation needs.
+> `Kriszz Bails` is a refined version of the Baileys library with cleaner API usage, exclusive features like album messaging, newsletter controls, and full-size profile uploads — tailored for modern WhatsApp automation needs.
 
 > `Update`
 + All update information is now redirected to the WhatsApp channel 
@@ -44,19 +44,25 @@
 @whiskeysockets/baileys
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "npm:@rexxhayanasi/elaina-bail"
+  "@whiskeysockets/baileys": "npm:@kriszz-hayanasi/baileys"
 }
 ```
 @adiwajsing/baileys
 ```json
 "dependencies": {
-  "@adiwajshing/baileys": "npm:@rexxhayanasi/elaina-bail"
+  "@adiwajshing/baileys": "npm:@kriszz-hayanasi/baileys"
+}
+```
+baileys
+```json
+"dependencies": {
+  "baileys": "npm:@kriszz-hayanasi/baileys"
 }
 ```
 
 Or via terminal
 ```bash
-npm install elaina-bail@npm:@rexxhayanasi/elaina-bail
+npm install npm:@kriszz-hayanasi/baileys
 ```
 
 Importing (**for those who don't fork another repository**)
@@ -232,7 +238,7 @@ Terima kasih kepada pihak-pihak yang telah memberikan dukungan, inspirasi, dan k
 - **[Nstar-Y / Nstar-bail](https://github.com/Nstar-Y)**  
   As an initial foundation and reference in the development of this system.
 
-- **[KriszzHayanasi](https://github.com/KriszzTzy)** (Me)  
+- **[Kriszz Hayanasi](https://github.com/KriszzTzy)** (Me)  
   The main developer of this project.
 
 </details>
@@ -250,23 +256,23 @@ Thanks to the following awesome contributors who help improve this project 💖
   <tr>
     <td align="center">
       <a href="https://github.com/KriszzTzy">
-        <img src="https://avatars.githubusercontent.com/u/150516773?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
+        <img src="https://avatars.githubusercontent.com/u/194907727?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
         <br />
-        <sub><b>KriszzHayanasi</b></sub>
+        <sub><b>Kriszz</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RexxHayanasi">
         <img src="https://avatars.githubusercontent.com/u/150516773?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
         <br />
-        <sub><b>RexxHayanasi</b></sub>
+        <sub><b>Rexx</b></sub>
       </a>
     </td>
 <td align="center">
       <a href="https://github.com/kiuur">
         <img src="https://avatars.githubusercontent.com/u/182334162?v=4" width="80px;" style="border-radius:50%;" alt="Matstoree"/>
         <br />
-        <sub><b>Kyuurzy</b></sub>
+        <sub><b>Kyuu</b></sub>
       </a>
     </td>
     <td align="center">
