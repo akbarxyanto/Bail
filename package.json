@@ -1,5 +1,5 @@
 {
-  "name": "@rexxhayanasi/elaina-bail",
+  "name": "@kriszz-hayanasi/baileys",
   "version": "2.6.1",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
@@ -14,9 +14,9 @@
     "automation", 
     "multi-device"
   ],
-  "homepage": "https://whatsapp.com/channel/0029VbBwhI0KbYMOrj0HOk2d",
+  "homepage": "https://github.com/KriszzTzy/Khayzz-Bails",
   "license": "MIT",
-  "author": "RexxHayanasi",
+  "author": "Kriszz Hayanasi",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -35,8 +35,8 @@
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
     "lint": "eslint src --ext .js,.ts,.jsx,.tsx",
     "lint:fix": "eslint src --fix --ext .js,.ts,.jsx,.tsx",
-    "prepack": "echo '@rexxhayanasi/elaina-bail'",
-    "prepare": "echo '@rexxhayanasi/elaina-bail'",
+    "prepack": "echo '@kriszz-hayanasi/baileys'",
+    "prepare": "echo '@kriszz-hayanasi/baileys'",
     "preinstall": "node ./engine-requirements.js",
     "release": "release-it",
     "test": "jest"
@@ -52,7 +52,7 @@
     "cache-manager": "^5.7.6",
     "cheerio": "^1.0.0-rc.10",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "npm:@rexxhayanasi/elaina-libsignal",
+    "libsignal": "github:@KriszzTzy/libsingnal-node",
     "lodash": "^4.17.21",
     "jimp": "^0.16.1",
     "music-metadata": "^7.12.3",
