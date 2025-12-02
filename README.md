@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>✨ Kriszz Hayanasi.</h1>
+  <h1>✨ AkbarDev.</h1>
   <p><em>Custom WhatsApp library built upon Baileys — enhanced, modernized, and elegant ✨</em></p>
 
   <img src="https://raw.githubusercontent.com/KriszzTzy/Database/main/uploads/1761960111729.jpeg" width="300" alt="Banner" />
@@ -44,25 +44,25 @@
 @whiskeysockets/baileys
 ```json
 "dependencies": {
-  "@whiskeysockets/baileys": "npm:@kriszz-hayanasi/baileys"
+  "@whiskeysockets/baileys": "npm:@akbarxyanto/Bail"
 }
 ```
 @adiwajsing/baileys
 ```json
 "dependencies": {
-  "@adiwajshing/baileys": "npm:@kriszz-hayanasi/baileys"
+  "@adiwajshing/baileys": "npm:@akbarxyanto/Bail"
 }
 ```
 baileys
 ```json
 "dependencies": {
-  "baileys": "npm:@kriszz-hayanasi/baileys"
+  "baileys": "npm:@akbarxyanto/Bail"
 }
 ```
 
 Or via terminal
 ```bash
-npm install npm:@kriszz-hayanasi/baileys
+npm install npm:@akbarxyanto/Bail"
 ```
 
 Importing (**for those who don't fork another repository**)
