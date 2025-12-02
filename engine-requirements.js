@@ -5,7 +5,7 @@ console.error(
 `   Diperlukan Node.js V20 atau lebih tinggi.\n` +
 `   Saat ini: v${process.versions.node}\n\n` +
 `   🚀 Ayo upgrade sekarang biar gak ketinggalan zaman!\n` +
-`   © Kriszz Hayanasi - Khayzuu.\n`
+`   © Akbar - Developer.\n`
 )
 process.exit(1)
 }
